@@ -1,34 +1,38 @@
 ---
-title: "Name"
-
+title: "Miguel Alejandro Sanchez"
+format: 
+  html:
+    theme:
+      light: [cosmo, theme-light.scss]
+      dark: [cosmo, theme-dark.scss]
 about:
-  template: trestles
-  image: files/profilepic.png
+  template: broadside
+  image: files/ms.png
   links:
     - icon: github
       text: Github
-      href: https://github.com/matthewlavallee
+      href: https://github.com/malsanchz
     - icon: twitter
       text: Twitter
-      href: https://twitter.com/lavalleemat
+      href: https://twitter.com/mthebreathtaker
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/mattylavallee/
+      href: www.linkedin.com/in/miguelsanchez-ia
     - icon: google-scholar
       text: Google Scholar
-      href: https://scholar.google.com/citations?user=5OUEFSUAAAAJ&hl=en
+      href: https://scholar.google.com/citations?user=fxhs0ygAAAAJ&hl=en&oi=sra
 comments: false
 ---
 
 ### About
 
-I am PhD student at the Johns Hopkins Bloomberg School of Public Health, training to become a health economist. My research interests include Medicaid, the social safety net, and how programs interact. Before graduate school, I worked as a Tobin Center / Economics Pre-Doctoral Fellow researching access to care and quality of care in Medicaid, and how social programs shape care for Medicaid enrollees.
+I am first-year PhD student at the Johns Hopkins Bloomberg School of Public Health, training to become a health economist. My research interests include health economics, health services research, population health, and political economy. Before graduate school, I worked for AmeriHealth Caritas Family of Companies as an Analyst for Healthcare Plan Analytics.
 
 ### Education
 
-      Hampshire College - Amherst, Massachusetts
+      Ithaca College - Ithaca, New York
 
-            *BA in Economics & Mathematics, 2020*
+            *BA in Economics & BS in Public and Community Health, 2022*
 
       Johns Hopkins University - Baltimore, Maryland
 

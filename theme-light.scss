@@ -1,0 +1,29 @@
+/*-- scss:defaults --*/
+
+// Fonts
+@import url("https://fonts.googleapis.com/css2?family=Montserrat");
+
+// Base document colors
+$body-color: black;
+
+// Code blocks
+$code-block-bg-alpha: -.8;
+
+/* ------- customize button class -------- */
+@mixin button-variant($background, $border, $color) {
+    background-color: white;
+    border: 1px solid #dfdfdf;
+    color: black;
+
+    &:hover {
+        background-color: #dfdfdf;
+        border: 1px solid white;
+        color: white;
+    }
+}
+
+.btn-primary {
+    &.basic {
+        @include button-variant(black, white, white);
+    }
+}

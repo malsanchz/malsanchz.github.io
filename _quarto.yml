@@ -2,19 +2,41 @@ project:
   type: website
   output-dir: docs
 
+resources:
+  - CNAME
+
+
 website:
-  title: "personal web"
+  title: "Miguel Alejandro Sanchez"
+  site-url: ""
+  repo-url: ""
+  description: "Website of Miguel A. Sanchez"
+  #cookie-consent: true
+  twitter-card: 
+    creator: "@mthebreathtaker"  
+  search: true
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - href: files/mas.pdf
+        text: CV
+      - href: research/index.qmd
+        text: Research
+  
+  page-footer:
+    left: |
+      {{< fa regular copyright >}} 2023 Miguel A. Sanchez.<br>
+      
+    right: |
+      Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/).<br>
+      [Source at {{< fa brands github >}} GitHub](https://github.com/MatthewLavallee/matthewlavallee.github.io).
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
-    toc: true
+    theme:
+      light: [cosmo, theme-light.scss]
+      dark: [cosmo, theme-dark.scss]
+    mainfont: Montserrat
+    fontsize: 0.95em
+    toc: false
 
 editor: visual
-
