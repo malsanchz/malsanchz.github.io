@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 resources:
-  - CNAME
+  - files/key_pic.png
 
 
 website:
