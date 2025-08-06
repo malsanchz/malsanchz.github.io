@@ -26,7 +26,7 @@ comments: false
 
 ### About
 
-I am first-year PhD student at the Johns Hopkins Bloomberg School of Public Health, training to become a health economist. My research interests include health economics, health services research, population health, and political economy. Before graduate school, I worked for AmeriHealth Caritas Family of Companies as an Analyst for Healthcare Plan Analytics.
+I am a PhD student in Health Economics and Policy at the Johns Hopkins Bloomberg School of Public Health. My research focuses on health economics, population health, and political economy. Prior to graduate school, I worked as an Analyst at AmeriHealth Caritas, supporting data-driven decisions for managed care plans.
 
 ### Education
 
