@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "quarto website",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "research/index.html",
+    "href": "research/index.html",
+    "title": "Research",
+    "section": "",
+    "text": "Publications\n\n\nNA\n\n\n\nWork In Progress"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Miguel Alejandro Sanchez",
+    "section": "",
+    "text": "About\nI am a PhD student in Health Economics and Policy at the Johns Hopkins Bloomberg School of Public Health. My research focuses on health economics, population health, and political economy. Prior to graduate school, I worked as an Analyst at AmeriHealth Caritas, supporting data-driven decisions for managed care plans.\n\n\nEducation\n      Ithaca College - Ithaca, New York\n            BA in Economics & BS in Public and Community Health, 2022\n      Johns Hopkins University - Baltimore, Maryland\n            PhD in Health Economics & Policy, 2027 (expected)"
+  }
+]
