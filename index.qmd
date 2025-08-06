@@ -2,11 +2,9 @@
 title: "Miguel Alejandro Sanchez"
 format: 
   html:
-    theme:
-      light: [cosmo, theme-light.scss]
-      dark: [cosmo, theme-dark.scss]
+    theme: lux
 about:
-  template: broadside
+  template: jolla
   image: files/key_pic.png
   links:
     - icon: github
