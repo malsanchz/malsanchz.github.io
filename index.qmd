@@ -2,7 +2,7 @@
 title: "Miguel Alejandro Sanchez"
 format: 
   html:
-    theme: materia
+    theme: lumen
 about:
   template: jolla
   image: files/key_pic.png
