@@ -7,7 +7,7 @@ format:
       dark: [cosmo, theme-dark.scss]
 about:
   template: broadside
-  image: files/ms.png
+  image: files/key_pic.png
   links:
     - icon: github
       text: Github
