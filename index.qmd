@@ -4,7 +4,7 @@ format:
   html:
     theme: cosmo
 about:
-  template: jolla
+  template: solana
   image: files/key_pic.png
   links:
     - icon: github
