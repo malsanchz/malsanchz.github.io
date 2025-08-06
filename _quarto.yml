@@ -28,7 +28,7 @@ website:
       
     right: |
       Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/).<br>
-      [Source at {{< fa brands github >}} GitHub](https://github.com/MatthewLavallee/matthewlavallee.github.io).
+      [Source at {{< fa brands github >}} GitHub](https://github.com/malsanchz/malsanchz.github.io)
 
 format:
   html:
