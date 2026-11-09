@@ -4,8 +4,10 @@ format:
   html:
     theme: cosmo
 about:
-  template: broadside
+  template: trestles
   image: files/key_pic.png
+  image-width: 15em
+  image-shape: round
   links:
     - icon: github
       text: Github
@@ -24,7 +26,9 @@ comments: false
 
 ### About
 
-I am a PhD student in Health Economics and Policy at the Johns Hopkins Bloomberg School of Public Health. My research focuses on health economics, population health, and political economy. Prior to graduate school, I worked as an Analyst at AmeriHealth Caritas, supporting data-driven decisions for managed care plans.
+I am a PhD Student in Health Economics and Policy at the Johns Hopkins Bloomberg School of Public Health. My research uses applied microeconomics to study how incentives, institutions, and regulation shape economic and social outcomes. My current work focuses on health care providers and pharmaceutical markets.
+
+Prior to graduate school, I worked as an Analyst at AmeriHealth Caritas, supporting data-driven decisions for managed care plans.
 
 ### Education
 

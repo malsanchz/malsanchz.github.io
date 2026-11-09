@@ -19,8 +19,8 @@ website:
     left:
       - href: files/mas.pdf
         text: CV
-      - href: research/index.qmd
-        text: Research
+      # - href: research/index.qmd
+      #   text: Research
   
   page-footer:
     left: |
