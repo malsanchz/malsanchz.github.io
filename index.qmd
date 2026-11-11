@@ -5,7 +5,7 @@ format:
     theme: cosmo
 about:
   template: trestles
-  image: files/key_pic.png
+  image: files/key_pic.jpg
   image-width: 15em
   image-shape: round
   links:
