@@ -12,8 +12,6 @@ website:
   repo-url: ""
   description: "Website of Miguel A. Sanchez"
   #cookie-consent: true
-  twitter-card: 
-    creator: "@mthebreathtaker"  
   search: true
   navbar:
     left:
