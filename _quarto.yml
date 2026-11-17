@@ -8,7 +8,7 @@ resources:
 
 website:
   title: "Miguel Alejandro Sanchez"
-  site-url: ""
+  site-url: "https://miguelasanchez.com"
   repo-url: ""
   description: "Website of Miguel A. Sanchez"
   #cookie-consent: true
